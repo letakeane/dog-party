@@ -1,0 +1,155 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+body {
+  width: 1202px;
+}
+
+header {
+  background-color: #92E0E5;
+  height: 50px;
+  border-top: 1px solid #7B8080;
+}
+
+.nav-links {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+  padding: 8px;
+}
+
+#logo {
+  display: inline-block;
+  background-color: #92E0E5;
+  margin: 10px 25px;
+}
+
+.logo {
+   width: 35px;
+}
+
+#nav {
+  background-color: #92E0E5;
+  float: right;
+}
+
+#nav ul{
+  list-style-type: none;
+  margin: 0px 20px;
+  padding: 10px 0px 0px 0px;
+  background-color: #92E0E5;
+}
+
+.nav-list {
+  display: inline-block;
+  float: left;
+}
+
+#hero {
+  background-image: url("images/park.jpg");
+  height: 500px;
+  background-size: 100%;
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  font-size: 30px;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+
+#hero-content {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.hero-image {
+  border: 4px solid #3F8DA7;
+  border-radius: 100%;
+  margin: 0 auto;
+  display:block;
+}
+
+#more {
+  padding: auto;
+  padding-top: 15px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.article-header {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 20px;
+}
+
+p {
+  text-align: center;
+  font-size: 17px;
+  line-height: 100%;
+  font-weight: bold;
+}
+
+.article-image {
+  width: 200px;
+  border: 2px solid #3F8DA7;
+  border-radius: 100%;
+  margin: 10px auto;
+}
+
+button {
+  background-color: white;
+  border: 4px solid #3F8DA7;
+  color: #3F8DA7;
+  padding: 4px 10px;
+  font-size: 18px;
+  font-weight: bold;
+  display: inline-block;
+  margin: auto;
+  margin-top: 20px;
+}
+
+article {
+  display: inline-block;
+  width: 31%;
+  margin: 10px;
+  text-align: center;
+  vertical-align: top;
+}
+
+footer {
+  background-color: #3F8DA7;
+  height: 200px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+h3 {
+  color: #ffffff;
+  text-align: center;
+  margin: auto;
+  font-size: 18px;
+  padding: 20px;
+}
+
+#social-bar {
+  text-align: center;
+}
+
+.social-icons {
+  margin: 20px 25px 35px 25px;
+}
+
+.footer-link {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+}
